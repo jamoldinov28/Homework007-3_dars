@@ -1,0 +1,86 @@
+*{ 
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+   font-family: sans-serif;
+}
+body{
+      background: url("moon-over-field-wallpapers_10702_1680x1050.jpg");
+}
+.box{
+      width: 330px;
+      height: 350px;
+      background: darkgrey;
+      margin: auto;
+      margin-top: 140px;
+}
+.card__image{
+              width: 330px;
+              height: 150px;
+              margin-top: 5px;
+              padding: 5px;
+              border-radius: 15px;
+}
+.card__btn{
+            width: 50px;
+            margin-left: 25px;
+            border-radius: 5px;
+}
+.card__word{
+            width: 50px;
+            margin-left: 2px;
+            border-radius: 5px;
+}
+.card__name{
+             text-align: center;
+             margin-top: 10px;
+}
+.card__morning{
+
+                text-align: center;
+                margin-top: 10px;
+
+}  
+.card___btn{
+             margin-top: 20px;
+             margin-left: 130px ;
+             border-radius: 4px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
